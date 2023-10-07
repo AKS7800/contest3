@@ -1,1 +1,1 @@
-print("snake and ladder")
+print("ladder and snake")
